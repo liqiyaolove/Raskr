@@ -1,5 +1,5 @@
 # Raskr
-Simple program for one-dimensional cutting. Only the Russian language.
+Simple program for one-dimensional cutting.
 
 Простая программа одномерного раскроя, для раскроя заготовок.
 
